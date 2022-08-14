@@ -1,1 +1,1 @@
-# School21_JavaChat
+# Client/server chat application.
