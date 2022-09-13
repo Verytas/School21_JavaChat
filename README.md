@@ -1,6 +1,6 @@
 This is client/server chat application. <br />
 
-Application supports the following chat user lifecycle: <br />
+Application supports the following chat user lifecycle
 1. Registration <br />
 2. Sign in <br />
 3. Sending messages <br />
